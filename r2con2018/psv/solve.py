@@ -21,9 +21,9 @@ while True:
         disass.append(instruction['opcode'])
         if instruction['type'] == 'xor':
             print("[+] RDX Value: "+r.cmd('dr rdx')+" RCX Value: "+r.cmd('dr rcx')+" RAX Value: "+r.cmd('dr rax'))
-            xor = int(r.cmd('dr rdx'),16)^int(r.cmd('dr rax'),16) #xor operation to get the next value of password
+            xor = int(r.cmd('dr rdx'),16)^int(r.cmd('dr rax'),16) #xor operation to get password
             if xor > 256:
-                print("\tNon printable char")
+                print("\tNon chr")
             else:
                 print (chr(27) + "[0;33m" + "\tXOR Operation RAX ^ RDX: " +chr(xor)+chr(27) + "[0m")
             value = r.cmdj('drj')["rcx"]
