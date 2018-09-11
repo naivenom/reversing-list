@@ -9,7 +9,7 @@ def code():
         local14 = password[i]
         local8 = 7                     #mov dword [local_8h], 7
         local4 = 69                    #mov dword [local_4h], 0x45
-        							                 #mov eax, dword [local_8h]
+        							   #mov eax, dword [local_8h]
         shl = local8<<4                #shl eax,4
         xor = password[i] ^ local4
         add = xor + shl
