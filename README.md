@@ -1,2 +1,5 @@
-# reversing-list
-Reversing challenges list
+# Easy
+
+# Medium
+
+# Hard
