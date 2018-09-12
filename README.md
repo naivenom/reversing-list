@@ -1,4 +1,4 @@
-It is a list of challenges compiled from different reverse engineering ctf, whose content is the binary and my solution. Enjoy.
+It is a list of challenges compiled from different reverse engineering ctf, whose content is the binary and my solution. It is a list in continuous update. Enjoy and learn!.
 # Easy
 | Challenge  | Output|
 | ----- | ------ |
