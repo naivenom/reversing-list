@@ -10,3 +10,4 @@
 # Hard
 
 <img src=https://github.com/naivenom/reversing-list/blob/master/image.png>
+It is a list of challenges compiled from different reverse engineering ctf, whose content is the binary and my solution. Enjoy.
