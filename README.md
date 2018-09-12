@@ -13,4 +13,3 @@ It is a list of challenges compiled from different reverse engineering ctf, whos
 | <a href="https://github.com/naivenom/reversing-list/tree/master/r2con2018/disqualified">r2con2018 disqualified</a>  | by Megabeets Show me what you got:|
 # Hard
 
-<img src=https://github.com/naivenom/reversing-list/blob/master/image.png>
