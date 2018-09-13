@@ -2,8 +2,8 @@ import r2pipe
 import sys
 #r = r2pipe.open(
 #filename='', flags=['-d', 'rarun2', 'program=psv', 'stdin="r2con{"'])
-r = r2pipe.open("./brasil")
-r.cmd('e dbg.profile=brasil.rr2')
+r = r2pipe.open("./disqualified")
+r.cmd('e dbg.profile=disqualified.rr2')
 r.cmd('doo') #initially you are debuggign rarun2 
 r.cmd('db main') #Random memory address code so setting bp in main
 r.cmd('dc')
