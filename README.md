@@ -2,7 +2,7 @@ It is a list of challenges compiled from different reverse engineering ctf, whos
 # Baby
 | Challenge  | Output|
 | ----- | ------ |
-| <a href="https://github.com/naivenom/reversing-list/tree/master/9447%20CTF%202015/The%20real%20flag%20finder">9447 CTF 2015 The real flag finder</a>  | Usage: ./flagFinderRedux <password>|
+| <a href="https://github.com/naivenom/reversing-list/tree/master/9447%20CTF%202015/The%20real%20flag%20finder">9447 CTF 2015 The real flag finder</a>  | Usage: ./flagFinderRedux password|
 
 # Easy
 | Challenge  | Output|
