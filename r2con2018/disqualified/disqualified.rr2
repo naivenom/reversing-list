@@ -1,0 +1,4 @@
+#!/usr/bin/rarun2
+program=./disqualified
+stdin="AAAA"
+stdout=
