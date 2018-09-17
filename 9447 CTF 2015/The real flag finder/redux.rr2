@@ -1,4 +1,4 @@
 #!/usr/bin/rarun2
 program=./flagFinderRedux
-stdin="AAAA"
-stdout=
+arg1="AAAA"
+
