@@ -18,5 +18,6 @@ It is a list of reversing challenges compiled from different CTF, whose content 
 | Challenge  | Output|
 | ----- | ------ |
 | <a href="https://github.com/naivenom/reversing-list/tree/master/r2con2018/disqualified">r2con2018: disqualified</a>  | by Megabeets Show me what you got: [stdin]|
+| <a href="https://github.com/naivenom/reversing-list/tree/master/Navarra%20Lan%20Party%20CTF%202018/In%20time">Navarra Lan Party CTF 2018: In time</a>  | by Gibdeon Introduce tu flag y comprueba si es la correcta [stdin] Espere unos instantes...|
 # Hard
 
