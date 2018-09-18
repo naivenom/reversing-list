@@ -1,0 +1,4 @@
+#!/usr/bin/rarun2
+program=./in-time
+stdin="flag{AAAAAAAAAAAAAAAA}"
+stdout=
