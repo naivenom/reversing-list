@@ -128,12 +128,12 @@ if __name__ == "__main__":
                 password.append(ord(sys.argv[1][i]))
             if len(password) == 7:
                 print (chr(27) + "[1;36m" + "[+] STAGE 1 - REVERSE ENGINEERING" + chr(27) + "[0m")
-                local20 = 2941729636                   #mov qword [local_20h], -0x50a8c49c == 0xffffffffaf573b64 == parte baja 0xaf573b64
+                local20 = 2941729636                   #mov qword [local_20h], -0x50a8c49c == 0xffffffffaf573b64 == low part 0xaf573b64
                 local28 = 1512702707                   #mov QWORD PTR [rbp-0x28], 0x5a2a02f3
-                hash1 = symhash(password)                      #ret
+                hash1 = symhash(password)              #ret
                 print("First Hash: "+hash1)                            
                 local30 = int(hash1, 16)               #mov ebp-0x30, rax
-                hash2 = symhash2(password)                     #ret
+                hash2 = symhash2(password)             #ret
                 print("Second Hash: "+hash2)
                 local38 = int(hash2, 16)               #mov ebp-0x38, rax
                 rax = local30                          #mov rax, ebp-0x30
@@ -142,7 +142,7 @@ if __name__ == "__main__":
 
                 if rax == local20:                     #cmp rax,QWORD PTR [rbp-0x20] 
                     rax = local38                      #mov rax,QWORD PTR [rbp-0x38]
-                    if rax == local28:                 #cmp rax,QWORD PTR [rbp-0x28] Segundo check con el hash2 y el local28 hardcoded arriba
+                    if rax == local28:                 #cmp rax,QWORD PTR [rbp-0x28] Second check with hash2 and local28 hardcoded
                         print("\nGood!")               #mov DWORD PTR [rbp-0x4],0x10  
 
                     else:                              
