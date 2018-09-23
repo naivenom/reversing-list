@@ -127,7 +127,7 @@ if __name__ == "__main__":
             for i in range(len(sys.argv[1])):
                 password.append(ord(sys.argv[1][i]))
             if len(password) == 7:
-                print (chr(27) + "[1;36m" + "[+] STAGE 1 - REVERSE ENGINEERING" + chr(27) + "[0m")
+                print (chr(27) + "[1;36m" + "[+] REVERSE ENGINEERING" + chr(27) + "[0m")
                 local20 = 2941729636                   #mov qword [local_20h], -0x50a8c49c == 0xffffffffaf573b64 == low part 0xaf573b64
                 local28 = 1512702707                   #mov QWORD PTR [rbp-0x28], 0x5a2a02f3
                 hash1 = symhash(password)              #ret
