@@ -3,7 +3,8 @@ It is a list of reversing challenges compiled from different CTF, whose content 
 | Challenge  | Output|
 | ----- | ------ |
 | <a href="https://github.com/naivenom/reversing-list/tree/master/9447%20CTF%202015/The%20real%20flag%20finder">9447 CTF 2015: The real flag finder</a>  | Usage: ./flagFinderRedux [arg1]|
-| <a href="https://github.com/naivenom/reversing-list/tree/master/Defcamp%20CTF%20Qualifications%202015/entry-language-100">Defcamp CTF Qualifications 2015: entry-language-100</a>  | Enter the password: [stdin]|
+| <a href="https://github.com/naivenom/reversing-list/tree/master/Defcamp%20CTF%20Qualifications%202015/entry-language-100">Defcamp CTF Qualifications 2015: entry-language-100</a> | Enter the password: [stdin]|
+| <a href="https://github.com/naivenom/reversing-list/tree/master/Hack%20The%20Box/Find%20The%20Easy%20Pass">Hack The Box: Find The Easy Pass</a> | Enter Password: [stdin]|
 
 # Easy
 | Challenge  | Output|
