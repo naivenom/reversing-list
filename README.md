@@ -17,7 +17,7 @@ It is a list of reversing challenges compiled from different CTF, whose content 
 
 | Challenge  | Output|
 | ----- | ------ |
-| <a href="https://github.com/naivenom/reversing-list/tree/master/r2con2018/disqualified">r2con2018: disqualified</a>  | Show me what you got: [stdin] by Megabeets|
+| <a href="https://github.com/naivenom/reversing-list/tree/master/r2con2018/disqualified">r2con2018: disqualified</a>  | Show me what you got: [stdin] by Megabeets (@megabeets_)|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/Navarra%20Lan%20Party%20CTF%202018/In%20time">Navarra Lan Party CTF 2018: In time</a>  | Introduce tu flag y comprueba si es la correcta [stdin] Espere unos instantes... by Gibdeon (@gibdeon)|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/PatataCTF/Angry%20Potato">PatataCTF 2018: Angry Potato</a>  | ./angry-patatas [arg] by Patatas (@HackingPatatas)|
 # Hard
