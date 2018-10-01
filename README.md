@@ -6,7 +6,7 @@ It is a list of reversing challenges compiled from different CTF, whose content 
 | <a href="https://github.com/naivenom/reversing-list/tree/master/Defcamp%20CTF%20Qualifications%202015/entry-language-100">Defcamp CTF Qualifications 2015: entry-language-100</a> | Enter the password: [stdin]|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/Hack%20The%20Box/Find%20The%20Easy%20Pass">Hack The Box: Find The Easy Pass</a> | Enter Password: [stdin]|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/Hack%20The%20Box/Impossible%20Password">Hack The Box: Impossible Password</a> | * [stdin]|
-| <a href="https://github.com/naivenom/reversing-list/tree/master/Atenea%20CTF/WannaCry">CCN-Cert Atenea CTF: WannaCry</a> | <br>![#FF0000](https://placehold.it/15/c5f015/000000?text=+) Malware|
+| <a href="https://github.com/naivenom/reversing-list/tree/master/Atenea%20CTF/WannaCry">CCN-Cert Atenea CTF: WannaCry</a> | ![#FF0000](https://placehold.it/15/ff0000/000000?text=+) Malware|
 
 
 # Easy
