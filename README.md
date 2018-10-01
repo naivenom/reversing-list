@@ -10,7 +10,7 @@ It is a list of reversing challenges compiled from different CTF, whose content 
 | <a href="https://github.com/naivenom/reversing-list/tree/master/Atenea%20CTF/Saint%20Seiya">CCN-Cert Atenea CTF: Saint Seiya</a> | Enter Key: [stdin] |
 | <a href="https://github.com/naivenom/reversing-list/tree/master/Atenea%20CTF/Spear%20Phising...%20Can%20you%20catch%20me">CCN-Cert Atenea CTF: Spear Phising... Can you catch me?</a> | ![#FF0000](https://placehold.it/15/ff0000/000000?text=+) Malware|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/Atenea%20CTF/Counter">CCN-Cert Atenea CTF: Counter</a> | ![#D2691E](https://placehold.it/15/d2691e/000000?text=+) Packed|
-| <a href="https://github.com/naivenom/reversing-list/tree/master/Atenea%20CTF/Crackme-%20if%20you%20can...">CCN-Cert Atenea CTF: Crackme! if you can...</a>  | Usage: crypt0.exe [arg1] [arg2], <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme|
+| <a href="https://github.com/naivenom/reversing-list/tree/master/Atenea%20CTF/Crackme-%20if%20you%20can...">CCN-Cert Atenea CTF: Crackme! if you can...</a>  | Usage: crypt0.exe [arg1] [arg2] <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme|
 
 
 # Easy
