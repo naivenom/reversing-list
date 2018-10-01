@@ -1,1 +1,1 @@
-Packed .NET
+Packed .NET dnspy is your friend :)
