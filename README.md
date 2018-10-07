@@ -16,6 +16,7 @@ It is a list of reversing challenges compiled from different CTF, whose content 
 # Easy
 | Challenge  | Output|
 | ----- | ------ |
+| <a href="https://github.com/naivenom/reversing-list/tree/master/H4CK1T%20CTF%202016/Crypt00perator">H4CK1T CTF 2016: Crypt00perator</a>  | Enter th3 k3y: [stdin] <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/r2con2018/psv">r2con2018: psv</a>  | Welcome to PSV (Perfectly Secure Vault)! Enter your secret key to unlock: [stdin] <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/r2con2018/scrabble">r2con2018: scrabble</a>  | Usage: scrabble [arg1], <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/r2con2018/forceme">r2con2018: forceme</a>  | ****** As a Lockpicking master, Open the Lock! *******  Usage: forceme [arg] <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme|
