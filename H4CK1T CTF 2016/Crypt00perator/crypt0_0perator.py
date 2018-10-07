@@ -48,5 +48,6 @@ def solve():
 if __name__ == '__main__':
 	#main_()
 	#debug_(addr)
-	#decrypt()
+	#recon()
+	#solve()
 	help_()
