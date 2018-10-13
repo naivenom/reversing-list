@@ -13,6 +13,8 @@ It is a list of reversing challenges compiled from different CTF, whose content 
 | <a href="https://github.com/naivenom/reversing-list/tree/master/Atenea%20CTF/Crackme-%20if%20you%20can...">CCN-Cert Atenea CTF: Crackme! if you can...</a>  | Usage: crypt0.exe [arg1] [arg2] <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#1aa3ff](https://placehold.it/15/1aa3ff/000000?text=+) Exe|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/H4CK1T%20CTF%202016/Crypt00perator">H4CK1T CTF 2016: Crypt00perator</a>  | Enter th3 k3y: [stdin] <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#1aa3ff](https://placehold.it/15/1aa3ff/000000?text=+) Exe|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/CSAW%202016/Gametime">CSAW 2016: Gametime</a>  | ![#1aa3ff](https://placehold.it/15/1aa3ff/000000?text=+) Exe|
+| <a href="https://github.com/naivenom/reversing-list/tree/master/Practical%20Malware%20Analysis%20Lab/Lab01-01">Practical Malware Analysis: Lab01-01</a>  | ![#FF0000](https://placehold.it/15/ff0000/000000?text=+) Malware ![#1aa3ff](https://placehold.it/15/1aa3ff/000000?text=+) Exe|
+
 
 
 # Easy
