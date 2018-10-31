@@ -1,4 +1,4 @@
-It is a list of reversing challenges compiled from different CTF, whose content is the binary and my solution using <b>r2pipe</b>, <b>IDAPython</b> or just the <b>reverse</b> binary in high-level language like Python and some writeups!. It is a list in continuous update so enjoy and learn!.
+It is a list of reversing challenges compiled from different CTF, whose content is the binary and solution using <b>r2pipe</b>, <b>IDAPython</b> or just the <b>reverse</b> binary in high-level language like Python or C and some writeups!. It is a list in continuous update so enjoy and learn!.
 # Baby
 | Challenge  | Output and info|
 | ----- | ------ |
