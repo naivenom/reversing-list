@@ -14,7 +14,7 @@ It is a list of reversing challenges compiled from different CTF, whose content 
 | <a href="https://github.com/naivenom/reversing-list/tree/master/H4CK1T%20CTF%202016/Crypt00perator">H4CK1T CTF 2016: Crypt00perator</a>  | Enter th3 k3y: [stdin] <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#1aa3ff](https://placehold.it/15/1aa3ff/000000?text=+) Exe|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/CSAW%202016/Gametime">CSAW 2016: Gametime</a>  | ![#1aa3ff](https://placehold.it/15/1aa3ff/000000?text=+) Exe|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/Hacklu%20CTF%202018/Baby%20Reverse">Hack.lu CTF 2018: Baby Reverse</a>  | Welcome to this Chall! Enter the Key to win: [stdin] <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
-
+| <a href="https://github.com/naivenom/reversing-list/tree/master/INSTRUO%20CTF%202018/Tez%20Bano%20Tez">INSTRUO CTF 2018: Tez Bano Tez</a>  | INSTRUO-2018 IIEST-S *** Calculating key... <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
 
 
 # Easy
