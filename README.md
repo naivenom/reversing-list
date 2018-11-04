@@ -36,6 +36,6 @@ It is a list of reversing challenges compiled from different CTF, whose content 
 # Hard
 | Challenge  | Output and info|
 | ----- | ------ |
-| <a href="https://github.com/naivenom/reversing-list/tree/master/State%20machine/Ret0">State Machine 2018: Ret0</a>  |CLS Team 2018 Dev Bym24v Enter Password: [stdin] <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#1aa3ff](https://placehold.it/15/1aa3ff/000000?text=+) Exe|
+| <a href="https://github.com/naivenom/reversing-list/tree/master/State%20machine/Ret0">State Machine 2018: Ret0</a>  |CLS Team 2018 Enter Password: [stdin] by @Bym24v<br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#1aa3ff](https://placehold.it/15/1aa3ff/000000?text=+) Exe|
 
 # Insane
