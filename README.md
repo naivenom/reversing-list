@@ -34,6 +34,8 @@ It is a list of reversing challenges compiled from different CTF, whose content 
 | <a href="https://github.com/naivenom/reversing-list/tree/master/PatataCTF/Angry%20Potato">PatataCTF 2018: Angry Potato</a>  | ./angry-patatas [arg] by Patatas (@HackingPatatas) <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/InCTF%202018/Decoy">InCTF 2018: Decoy</a>  | Input: [stdin] <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#1aa3ff](https://placehold.it/15/1aa3ff/000000?text=+) Exe|
 # Hard
+| Challenge  | Output and info|
+| ----- | ------ |
 | <a href="https://github.com/naivenom/reversing-list/tree/master/State%20machine/Ret0">State Machine 2018: Ret0</a>  |CLS Team 2018 Dev Bym24v Enter Password: [stdin] <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#1aa3ff](https://placehold.it/15/1aa3ff/000000?text=+) Exe|
 
 # Insane
