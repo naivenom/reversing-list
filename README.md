@@ -24,7 +24,7 @@ It is a list of reversing challenges compiled from different CTF, whose content 
 | <a href="https://github.com/naivenom/reversing-list/tree/master/r2con2018/scrabble">r2con2018: scrabble</a>  | Usage: scrabble [arg1], <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/r2con2018/forceme">r2con2018: forceme</a>  | ****** As a Lockpicking master, Open the Lock! *******  Usage: forceme [arg] <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/Navarra%20Lan%20Party%20CTF%202018/Key%20is%20the%20key">Navarra Lan Party CTF 2018: Key is the key</a>  | Ultimate ultra-mega hacker key checker Version: 01.1337 (Only 1 key has been saved) Usage: keyisthekey [arg1] [arg2] by KaoRz (@alextaito99) <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#D2691E](https://placehold.it/15/d2691e/000000?text=+) Packed ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf ![#9900ff](https://placehold.it/15/9900ff/000000?text=+) Anti-Debugging|
-| <a href="https://github.com/naivenom/reversing-list/tree/master/Flare-On%202018/Ultimate%20Minesweeper">Flare-On 2018: Ultimate Minesweeper</a>  | ![#1aa3ff](https://placehold.it/15/1aa3ff/000000?text=+) Exe|
+| <a href="https://github.com/naivenom/reversing-list/tree/master/Flare-On%202018/Ultimate%20Minesweeper">Flare-On 2018: Ultimate Minesweeper</a>  | .NET Game by Nick Harbour (@nickharbour) ![#1aa3ff](https://placehold.it/15/1aa3ff/000000?text=+) Exe|
 
 
 # Medium
