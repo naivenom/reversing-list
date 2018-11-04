@@ -9,7 +9,6 @@ def check_key(key):
     sys.stdout.flush()
     return char_sum
 
-key = ""
 print (chr(27) + "[1;32m" + "S T A T E  M A C H I N E   Keygen Ret0 by @naivenom"+chr(27) + "[0m")
 time.sleep(2)
 timeout = time.time()+1
