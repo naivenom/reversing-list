@@ -14,7 +14,7 @@ time.sleep(2)
 timeout = time.time()+1
 first = [];second = [];third = [];four = [];five = [];six = [];seven = [];eight = [];nine = [];ten = [];
 eleven = [];twelve = [] ;thirteen=[]; fourteen = []; fifteen = []; sixteen = []; seventeen = []; eighteen = [];
-nineteen = []; twenty = []; twenty_one = []; twenty_two = [];
+nineteen = []; twenty = []; twenty_one = [];
 while True:
     test = 0
     if test == 1 or time.time() > timeout:
