@@ -37,7 +37,6 @@ namespace Ultimate_Minesweeper
                         Console.WriteLine("FLAG--> Row:" + row + " Column:" + colm);
                         Console.ReadLine();
                     }
-                    //mf.GarbageCollect[(int)num2, (int)num] = flag;
                 }
             }
         }
