@@ -1,4 +1,4 @@
-It is a list of reversing challenges compiled from different CTF and Malware Binaries, whose content is the binary and solution using <b>r2pipe</b>, <b>IDAPython</b> or just <b>reverse</b> binary in high-level language like Python or C and some writeups!. It is a list in continuous update so enjoy and learn!.
+It is a list of reversing challenges compiled from different CTF, whose content is the binary and solution using <b>r2pipe</b>, <b>IDAPython</b> or just <b>reverse</b> binary in high-level language like Python or C and some writeups!. It is a list in continuous update so enjoy and learn!.
 # Baby
 | Challenge  | Output and info|
 | ----- | ------ |
@@ -16,7 +16,7 @@ It is a list of reversing challenges compiled from different CTF and Malware Bin
 | <a href="https://github.com/naivenom/reversing-list/tree/master/Hacklu%20CTF%202018/Baby%20Reverse">Hack.lu CTF 2018: Baby Reverse</a>  | Welcome to this Chall! Enter the Key to win: [stdin] <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/INSTRUO%20CTF%202018/Tez%20Bano%20Tez">INSTRUO CTF 2018: Tez Bano Tez</a>  | INSTRUO-2018 IIEST-S *** Calculating key... <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/HoneyCON%20CTF%202018/Basic%20Conditional%20Decision">HoneyCON CTF 2018: Basic Conditional Decision</a>  | Usage: rev3 [arg1], <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
-| <a href="https://naivenom.com/ctf/X-MAS19/#santa-crackme">X-MAS CTF 2019: Santa's crackme</a>  | Usage: main [stdin],<a href="https://github.com/naivenom/reversing-list/tree/master/X-MAS%20CTF%202019">Binary: main</a> <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
+| <a href="https://naivenom.com/ctf/X-MAS19/#santa-crackme">X-MAS CTF 2019: Santa's crackme</a>  | Usage: main [stdin],<a href="https://github.com/naivenom/reversing-list/tree/master/X-MAS%20CTF%202019"> Binary: main</a> <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
 
 
 # Easy
