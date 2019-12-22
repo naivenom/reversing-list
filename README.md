@@ -16,6 +16,7 @@ It is a list of reversing challenges compiled from different CTF and Malware Bin
 | <a href="https://github.com/naivenom/reversing-list/tree/master/Hacklu%20CTF%202018/Baby%20Reverse">Hack.lu CTF 2018: Baby Reverse</a>  | Welcome to this Chall! Enter the Key to win: [stdin] <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/INSTRUO%20CTF%202018/Tez%20Bano%20Tez">INSTRUO CTF 2018: Tez Bano Tez</a>  | INSTRUO-2018 IIEST-S *** Calculating key... <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/HoneyCON%20CTF%202018/Basic%20Conditional%20Decision">HoneyCON CTF 2018: Basic Conditional Decision</a>  | Usage: rev3 [arg1], <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
+| <a href="https://naivenom.com/ctf/X-MAS19/#santa-crackme">X-MAS CTF 2019: Santa's crackme</a>  | Usage: main [stdin],<a href="https://github.com/naivenom/reversing-list/tree/master/X-MAS%20CTF%202019">Binary: main</a> <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
 
 
 # Easy
@@ -37,6 +38,7 @@ It is a list of reversing challenges compiled from different CTF and Malware Bin
 | <a href="https://github.com/naivenom/reversing-list/tree/master/Navarra%20Lan%20Party%20CTF%202018/In%20time">Navarra Lan Party CTF 2018: In time</a>  | Introduce tu flag y comprueba si es la correcta [stdin] Espere unos instantes... by Gibdeon (@gibdeon) <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/PatataCTF/Angry%20Potato">PatataCTF 2018: Angry Potato</a>  | ./angry-patatas [arg] by Patatas (@HackingPatatas) <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/InCTF%202018/Decoy">InCTF 2018: Decoy</a>  | Input: [stdin] <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#1aa3ff](https://placehold.it/15/1aa3ff/000000?text=+) Exe ![#9900ff](https://placehold.it/15/9900ff/000000?text=+) Anti-Debugging|
+| <a href="https://naivenom.com/ctf/X-MAS19/#last-christmas">X-MAS CTF 2019: Last Christmas</a>  | <a href="https://github.com/naivenom/reversing-list/tree/master/X-MAS%20CTF%202019">Binary: LAST_XMAS</a> <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
 # Hard
 | Challenge  | Output and info|
 | ----- | ------ |
