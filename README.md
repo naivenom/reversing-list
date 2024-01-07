@@ -19,7 +19,7 @@ It is a list of reversing challenges compiled from different CTF, whose content 
 | <a href="https://naivenom.com/ctf/X-MAS19/#santa-crackme">X-MAS CTF 2019: Santa's crackme</a>  | [stdin],<a href="https://github.com/naivenom/reversing-list/tree/master/X-MAS%20CTF%202019"> Binary: main</a> <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
 | <a href="https://naivenom.com/ctf/X-MAS19/#santa-crackme">X-MAS CTF 2019: Santa's crackme</a>  | [stdin],<a href="https://github.com/naivenom/reversing-list/tree/master/X-MAS%20CTF%202019"> Binary: main</a> <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
 | <a href="https://github.com/naivenom/reversing-list/tree/master/entropy">Basic Algorithm Decrypt function</a>  | Usage: entropy [arg1],<a href="https://github.com/naivenom/reversing-list/blob/master/entropy/entropy"> Binary: entropy</a> <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
-
+| <a href="https://github.com/naivenom/reversing-list/tree/master/babyrevjohnson">Iris CTF 2024</a>  | Usage: main [stdin],<a href="https://github.com/naivenom/reversing-list/tree/master/babyrevjohnson"> Binary: main</a> <br>![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Crackme ![#ffff1a](https://placehold.it/15/ffff1a/000000?text=+) Elf|
 
 # Easy
 | Challenge  | Output and info|
